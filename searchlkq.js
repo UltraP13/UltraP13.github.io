@@ -6,7 +6,7 @@ document.getElementById("output").innerHTML = "";
 var codeList = ["223","265","260","264","283","285","286","284","282","268","263","289","287","261","262","292","281","280","290","291","230","232","196","197","185","190","225","198","189","134","180","192","224","229","163","582","581","584","250","254","255","246","175","348","346","228","142","227","226","168","253","257","259","746","245","111","213","220","212","217","215","218","234","235","239","236","256"];
 for (i = 0, len = codeList.length, text = ""; i < len; i++) { 
 	//alert(i);
-    var url1="http://www.lkqpickyourpart.com/DesktopModules/pyp_vehicleInventory/getVehicleInventory.aspx?page=0&filter="+filter+"&sp=&cl=&carbuyYardCode=1"+codeList[i]+"&pageSize=15&language=en-US&thumbQ=60&fullQ=70";
+    var url1="https://www.lkqpickyourpart.com/DesktopModules/pyp_vehicleInventory/getVehicleInventory.aspx?page=0&filter="+filter+"&sp=&cl=&carbuyYardCode=1"+codeList[i]+"&pageSize=15&language=en-US&thumbQ=60&fullQ=70";
 	//makeCorsRequest(url1);
 	ajaxLoad("output", url1, codeList[i]);	
 	}
