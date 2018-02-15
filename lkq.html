@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>LKQ Global Search</title>
+<script src="searchlkq.js"></script>
+</head>
+<body>
+<h1>LKQ Global Search</h1>
+<h2>You must install this <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en">Allow-Control-Origin Extension</a> in Chrome for this to work!</h2>
+<form name="global" method="get" action="" onSubmit="browseLKQ(document.getElementById('filter').value);return false;">
+Keyword: <input type="text" id="filter">&nbsp;
+<input type="button" value="Browse" style="font-size:2; background-color:#DDF" onclick="browseLKQ(document.getElementById('filter').value)">
+</form>
+<br /><br />
+<div id="output"></div>
+</body>
+</html>
