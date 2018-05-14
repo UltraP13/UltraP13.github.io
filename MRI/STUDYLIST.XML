@@ -1,0 +1,135 @@
+<list>
+  <com.amicas.viewer.synth.osc.model.CDViewerStudySummary>
+    <itsPatientName>Hysky^Patrick^^^</itsPatientName>
+    <itsDICOMPatientName>
+      <itsSingleByte>
+        <itsFamilyName>Hysky</itsFamilyName>
+        <itsGivenName>Patrick</itsGivenName>
+        <itsComponentSeparator>^</itsComponentSeparator>
+      </itsSingleByte>
+    </itsDICOMPatientName>
+    <itsPatientID>1523717</itsPatientID>
+    <itsPatientBirthDate>19750513</itsPatientBirthDate>
+    <itsPatientSex>M</itsPatientSex>
+    <itsStudyDate>2018-01-19 10:48:14.265 CST</itsStudyDate>
+    <itsModifiedDate>2018-01-19 11:56:58.211 CST</itsModifiedDate>
+    <itsStudyDescription>ORTHOPEDICS001^KNEE</itsStudyDescription>
+    <itsModality>MR</itsModality>
+    <itsAccessionNumber>26772148</itsAccessionNumber>
+    <itsStudyStatus></itsStudyStatus>
+    <itsStationName>MRC22429</itsStationName>
+    <itsInstitution>TEXAS ORTHOPEDICS</itsInstitution>
+    <itsReadingPhysician></itsReadingPhysician>
+    <itsReferPhysician>SCHULTZ, WILLIAM R</itsReferPhysician>
+    <itsStudyInstanceUID>1.3.12.2.1107.5.2.6.22429.30000018011915022190600000725</itsStudyInstanceUID>
+    <itsSeriesSummaryInfoList>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.3.12.2.1107.5.2.6.22429.30000018011915022190600000615</itsSeriesInstanceUID>
+        <itsImageCount>27</itsImageCount>
+        <itsSeriesDescription>LEFT  PD FS TSE AXIAL</itsSeriesDescription>
+        <itsSeriesNumber>2</itsSeriesNumber>
+        <itsModality>MR</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.3.12.2.1107.5.2.6.22429.30000018011915022190600000644</itsSeriesInstanceUID>
+        <itsImageCount>28</itsImageCount>
+        <itsSeriesDescription>LEFT TSE PD  COR ARA</itsSeriesDescription>
+        <itsSeriesNumber>3</itsSeriesNumber>
+        <itsModality>MR</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.3.12.2.1107.5.2.6.22429.30000018011915022190600000671</itsSeriesInstanceUID>
+        <itsImageCount>26</itsImageCount>
+        <itsSeriesDescription>LEFT T2 CORONAL FS TSE</itsSeriesDescription>
+        <itsSeriesNumber>4</itsSeriesNumber>
+        <itsModality>MR</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.3.12.2.1107.5.2.6.22429.30000018011915022190600000699</itsSeriesInstanceUID>
+        <itsImageCount>27</itsImageCount>
+        <itsSeriesDescription>LEFT PD  TSE SAG</itsSeriesDescription>
+        <itsSeriesNumber>5</itsSeriesNumber>
+        <itsModality>MR</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.3.12.2.1107.5.2.6.22429.30000018011915022190600000724</itsSeriesInstanceUID>
+        <itsImageCount>24</itsImageCount>
+        <itsSeriesDescription>LEFT PD FS SAG</itsSeriesDescription>
+        <itsSeriesNumber>6</itsSeriesNumber>
+        <itsModality>MR</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+    </itsSeriesSummaryInfoList>
+    <itsStoringAETitle>AN_MRC22429</itsStoringAETitle>
+    <itsPatientAge>042Y</itsPatientAge>
+    <itsPatientWeight>042Y</itsPatientWeight>
+    <itsStudySummary>042Y</itsStudySummary>
+    <itsID>2103102232</itsID>
+    <itsNumStudyImages>132</itsNumStudyImages>
+    <itsNStudyViewImages>132</itsNStudyViewImages>
+    <itsNumStudySeries>5</itsNumStudySeries>
+    <itsNStudyViewSeries>5</itsNStudyViewSeries>
+  </com.amicas.viewer.synth.osc.model.CDViewerStudySummary>
+  <com.amicas.viewer.synth.osc.model.CDViewerStudySummary>
+    <itsPatientName>Hysky^Patrick</itsPatientName>
+    <itsDICOMPatientName>
+      <itsSingleByte>
+        <itsFamilyName>Hysky</itsFamilyName>
+        <itsGivenName>Patrick</itsGivenName>
+        <itsComponentSeparator>^</itsComponentSeparator>
+      </itsSingleByte>
+    </itsDICOMPatientName>
+    <itsPatientID>1523717</itsPatientID>
+    <itsPatientBirthDate>19750513</itsPatientBirthDate>
+    <itsPatientSex>M</itsPatientSex>
+    <itsStudyDate>2018-01-12 09:09:24.0 CST</itsStudyDate>
+    <itsModifiedDate>2018-01-12 10:19:37.806 CST</itsModifiedDate>
+    <itsStudyDescription>KNEES</itsStudyDescription>
+    <itsModality>DX</itsModality>
+    <itsAccessionNumber>180112085447993</itsAccessionNumber>
+    <itsStudyStatus></itsStudyStatus>
+    <itsStationName>CXDI-S680375MA</itsStationName>
+    <itsInstitution>Texas Orthopedics QL1</itsInstitution>
+    <itsReadingPhysician></itsReadingPhysician>
+    <itsReferPhysician>Schultz^William^R</itsReferPhysician>
+    <itsStudyInstanceUID>1.2.392.200046.100.2.1.206485343773.180112090924</itsStudyInstanceUID>
+    <itsSeriesSummaryInfoList>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.2.392.200046.100.2.1.206485343773.180112090924.1</itsSeriesInstanceUID>
+        <itsImageCount>1</itsImageCount>
+        <itsSeriesDescription></itsSeriesDescription>
+        <itsSeriesNumber>1</itsSeriesNumber>
+        <itsModality>DX</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.2.392.200046.100.2.1.206485343773.180112090924.2</itsSeriesInstanceUID>
+        <itsImageCount>1</itsImageCount>
+        <itsSeriesDescription></itsSeriesDescription>
+        <itsSeriesNumber>2</itsSeriesNumber>
+        <itsModality>DX</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.2.392.200046.100.2.1.206485343773.180112090924.3</itsSeriesInstanceUID>
+        <itsImageCount>1</itsImageCount>
+        <itsSeriesDescription></itsSeriesDescription>
+        <itsSeriesNumber>3</itsSeriesNumber>
+        <itsModality>DX</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+      <com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+        <itsSeriesInstanceUID>1.2.392.200046.100.2.1.206485343773.180112090924.4</itsSeriesInstanceUID>
+        <itsImageCount>1</itsImageCount>
+        <itsSeriesDescription>PATELLA AXIAL</itsSeriesDescription>
+        <itsSeriesNumber>4</itsSeriesNumber>
+        <itsModality>DX</itsModality>
+      </com.amicas.viewer.synth.osc.model.SeriesSummary_-SeriesSummaryInformation>
+    </itsSeriesSummaryInfoList>
+    <itsStoringAETitle>CANON_CCR</itsStoringAETitle>
+    <itsPatientAge>042Y</itsPatientAge>
+    <itsPatientWeight>042Y</itsPatientWeight>
+    <itsStudySummary>042Y</itsStudySummary>
+    <itsID>2103102232</itsID>
+    <itsNumStudyImages>4</itsNumStudyImages>
+    <itsNStudyViewImages>4</itsNStudyViewImages>
+    <itsNumStudySeries>4</itsNumStudySeries>
+    <itsNStudyViewSeries>4</itsNStudyViewSeries>
+  </com.amicas.viewer.synth.osc.model.CDViewerStudySummary>
+</list>
